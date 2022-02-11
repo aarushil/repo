@@ -1,0 +1,54 @@
+html,body{
+  direction: rtl;
+  font-family: 'GE SS Two', "Landasans-Medium", monospace !important;
+}
+.LandasansMedium{
+  font-family: 'GE SS Two', "Landasans-Medium", monospace !important;
+}
+.flip-clock-wrapper {
+  direction: ltr;
+}
+.attendees-graphic{
+  direction: ltr;
+}
+.attendees-graphic .DinNextBold{
+  direction: rtl;
+}
+.agenda-container .ps-5 {
+  padding-left: 0rem !important;
+  padding-right: 3rem !important;
+}
+
+#attendees .brd-right-yellow {
+  border-left: 1px solid #b39049;
+  border-right: none;
+}
+
+#attendees .pe-5 {
+  padding-left: 3rem !important;
+  padding-right: 0rem !important;
+}
+
+#attendees .ps-5 {
+  padding-left: 0rem !important;
+  padding-right: 3rem !important;
+}
+.counter-text{
+  max-width: 140px;
+}
+.lang-switch{
+right:-3rem;
+}
+.navbar .nav-link {
+  font-size: 1rem;
+}
+
+.lang-switch {
+  position: absolute;
+  right: -2.65rem;
+  font-size: 1.5rem;
+}
+
+.circle .size-64{
+  font-size:2.5rem
+}
